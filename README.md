@@ -12,3 +12,4 @@ variation of this.
 # Conclusion
 After that the program will run properly and provide a sorted list of arrays and time taken to sort the array list. 
 
+![](part3.gif)
